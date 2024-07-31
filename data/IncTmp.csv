@@ -1,0 +1,109 @@
+﻿Id,country,avg_income,avg_temp
+1,Hong Kong ,35304,26.2
+2,Japan,40964,19.2
+3,Singapore,41100,31.5
+4,Taiwan ,,26.9
+5,China,4654,19.1
+6,South Korea,22805,18.2
+7,Netherlands,45337,14.4
+8,Finland,42706,8.2
+9,Canada,40207,7.4
+10,North Korea,,15.3
+11,Luxembourg,71296,14.7
+12,Macao ,44072,26.1
+13,Germany,39911,13.8
+14,Switzerland,70399,15.2
+15,Estonia,13770,10.1
+16,Australia,42948,24.3
+17,United Kingdom,40698,12.9
+18,Greenland ,24486,0.4
+19,Iceland,47106,8.1
+20,Austria,42635,13.2
+21,Hungary,11391,16.6
+22,New Zealand,30141,17.4
+23,Belgium,40526,14.8
+24,Norway,75130,9.1
+25,Sweden,49535,9.9
+26,Denmark,53149,12.5
+27,Cambodia,776,33.1
+28,France,37610,16.8
+29,United States,49883,18.8
+30,Poland,10505,13.4
+31,Czechia,15552,12.8
+32,Russia,8241,9.5
+33,Spain,26463,21.1
+34,Ireland,43903,13.2
+35,Italy,32104,17.8
+36,Croatia,11642,18.1
+37,Lithuania,11330,11.6
+38,Israel,29009,25.4
+39,Mongolia,2241,8.1
+40,Portugal,19253,21.5
+41,Bermuda ,108349,24.6
+42,Bulgaria,5703,18.1
+43,Greece,21101,22.3
+44,Ukraine,2375,14.6
+45,Vietnam,1446,28.9
+46,Kazakhstan,6380,13.5
+47,Malaysia,7665,32
+48,Myanmar,660,32.2
+49,Thailand,4260,33
+50,Serbia,4876,18.3
+51,Brunei,29737,31.7
+52,Chile,10195,18.5
+53,Costa Rica,7480,28.6
+54,Iraq,3757,32.3
+55,Romania,7109,16
+56,Argentina,8795,24.4
+57,Mauritius,7812,26.8
+58,Mexico,8845,29.8
+59,Turkey,8840,20.5
+60,Georgia,2901,20.1
+61,Sri Lanka,2442,29.7
+62,Montenegro,6056,21.1
+63,Cuba,5538,30
+64,Brazil,7586,30.6
+65,Philippines,2330,31.9
+66,Colombia,5037,30.3
+67,Laos,1157,32.1
+68,Venezuela,8025,32.1
+69,Albania,3513,21.4
+70,United Arab Emirates,38644,34.4
+71,Dominican Republic,4964,31.7
+72,Puerto Rico ,16583,30.4
+73,Afghanistan,474,24.4
+74,Iran,4545,26.6
+75,Pakistan,985,30.9
+76,Indonesia,2355,31.6
+77,Kuwait,37088,34.3
+78,Oman,15328,33.8
+79,Qatar,58617,33.7
+80,Bolivia,1912,27.6
+81,Ecuador,4159,25.6
+82,Egypt,2175,30.1
+83,Algeria,3684,26.5
+84,India,1163,31.7
+85,Saudi Arabia,17468,32.7
+86,Sudan,1168,36.5
+87,Syria,4532,25.3
+88,Bangladesh,936,29.9
+89,Chad,630,35.6
+90,East Timor,2073,30.9
+91,Kenya,939,27.4
+92,Zimbabwe,843,27.1
+93,El Salvador,2912,31.2
+94,Morocco,2567,24.1
+95,South Africa,5941,24.7
+96,Niger,434,36.5
+97,Somalia,396,33.2
+98,Nigeria,1752,33.3
+99,Ethiopia,379,27.2
+100,Cameroon,1234,31.1
+101,Congo,316,30.4
+102,Ghana,1166,32.1
+103,Ivory Coast,1289,32.2
+104,Equatorial Guinea,7625,29.9
+105,Gambia,648,32.9
+106,Guatemala,2830,32.1
+107,Sierra Leone,412,30.4
+108,Nepal,595,24.6
