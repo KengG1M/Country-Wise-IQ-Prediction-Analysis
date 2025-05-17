@@ -84,6 +84,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## 👤 Author
 
-- Name: *[Trần Phương Quang Huy]*
+- Name: *Trần Phương Quang Huy*
 - Course: Data Mining
-- University: *[International University - VNU - HCM]*
+- University: *International University - VNU - HCM*
