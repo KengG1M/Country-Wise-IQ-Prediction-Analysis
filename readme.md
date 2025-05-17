@@ -84,6 +84,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## 👤 Author
 
-- Name: *[Your Name Here]*
+- Name: *[Trần Phương Quang Huy]*
 - Course: Data Mining
-- University: *[Your Institution]*
+- University: *[International University - VNU - HCM]*
